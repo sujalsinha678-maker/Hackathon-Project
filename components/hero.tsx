@@ -19,7 +19,7 @@ export default function Hero() {
   useEffect(() => {
     if (!nameRef.current) return
 
-    const name = "Aman Murari Singh"
+    const name = "Sujal Kumar"
     let index = 0
     nameRef.current.textContent = ""
 
@@ -73,7 +73,7 @@ export default function Hero() {
         >
           <TextReveal>
             <h3 className="inline-block bg-gradient-to-r from-purple-600 to-cyan-600 px-4 py-2 rounded-lg text-white font-semibold text-lg">
-              AI Engineer
+              Cybersecurity Enthusiast
             </h3>
           </TextReveal>
         </motion.div>
@@ -84,7 +84,7 @@ export default function Hero() {
           transition={{ duration: 0.5, delay: 0.6 }}
           className="text-gray-300 mb-8 max-w-md mx-auto md:mx-0"
         >
-          I want to become an AI Engineer specializing in data science and web development.
+          I am a Computer Science student passionate about cybersecurity, networking, and building secure solutions.
         </motion.p>
 
         <motion.div
@@ -129,7 +129,7 @@ export default function Hero() {
               <div className="relative w-full h-full">
                 <Image
                   src="profile.png"
-                  alt="Aman Murari Singh"
+                  alt="Sujal Kumar"
                   fill
                   className="object-cover"
                   onError={() => setImageError(true)}
