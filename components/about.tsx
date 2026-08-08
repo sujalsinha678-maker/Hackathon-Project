@@ -63,7 +63,7 @@ Proficient in Python, PyTorch, TensorFlow, and full-stack development with Djang
               ) : (
                 <div className="relative w-full h-full">
                   <Image
-                    src="aman.png"
+                    src="profile.png"
                     alt="Aman Murari Singh"
                     fill
                     className="object-cover"
