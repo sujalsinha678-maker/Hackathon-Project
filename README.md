@@ -9,4 +9,4 @@ An AI-powered system that uses NLP-based semantic similarity to compare newly pr
 - Helps identify duplicate or highly similar titles
 
 ## Team
-Developed as a hackathon project by a 5-member team, Team Hex Syndicate.
+Developed as a hackathon project by a 5-member team .
